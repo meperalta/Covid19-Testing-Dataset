@@ -1,3 +1,52 @@
-Project 01: COVID-19 Testing Dataset (2021)
+Project 01: COVID-19 Testing Dataset (2021) using Excel
 Exploratory Data Analysis (EDA) 
-In my COVID-19 Testing Data Analysis project, I demonstrated my proficiency in data analytics using Excel. Through meticulous data cleaning, I identified and addressed missing values and removed duplicates, ensuring the integrity of the dataset. Employing data preprocessing techniques, I handled outliers in the temperature column, enhancing the accuracy of the analysis. Transforming numerical values into categorical data facilitated a more insightful exploration of symptoms and demographics. Leveraging Excel's visualization tools, I created a variety of charts, including stacked column charts, line graphs, bar charts, and scatterplots, offering a comprehensive view of the data. The culmination of this work was an interactive dashboard featuring a timeline and slicers for dynamic exploration. This project showcases my ability to navigate and analyze complex datasets, draw meaningful conclusions, and present insights through compelling visualizations, emphasizing my skills as a meticulous and results-driven data analyst. 
+
+Overview:
+
+A comprehensive analysis of COVID-19 testing data, including data cleaning, preprocessing, and visualization, to derive meaningful insights.
+
+Data Cleaning:
+
+Identified missing values and blank rows.
+Strategy: Omission - Deleted/removed blank rows.
+Handled missing values by deleting rows with missing values for specific columns (Temperature, Age, Age 60 & Above, Sex, Test Administrator, Patient Experience Survey, Test Type).
+Removed duplication using Excel's "Remove Duplicates" function.
+Data Preprocessing:
+
+Handled outliers in the Temperature column by replacing values outside the normal range with the median average.
+Data Transformation:
+
+Converted numerical values to categorical for columns: Cough, Fever, Sore Throat, Shortness of Breath, Headache, and Contact.
+Created an Age Range column based on the Age column.
+
+Data Visualization:
+
+Utilized various Excel charts and graphs for effective visualization:
+
+Pivot Table and Pivot Charts.
+Stacked Column Chart for Symptoms & Gender.
+Line Graph for Testing Result (Positive - Negative).
+2D Vertical Graph for Test Results Distribution by Gender (Age Group - Result).
+Scatterplot for Temperature - Result.
+Bar Graph for Symptoms - Gender.
+Interactive Dashboard:
+
+Created an interactive dashboard with a timeline for date selection.
+Implemented slicers for filtering by Gender, Testing Result, Age Group, and Temperature.
+Achievements:
+
+Successfully identified and addressed missing values, outliers, and duplicated data.
+Transformed numerical values into meaningful categorical data.
+Presented insights through a variety of visualizations, making the data easily understandable.
+Developed an interactive dashboard for dynamic data exploration.
+
+Tools Used:
+
+Excel for data cleaning, preprocessing, transformation, and visualization.
+Key Takeaways:
+
+Insights into the distribution of symptoms based on gender.
+Trends in testing results over time.
+Relationship between temperature and testing results.
+Demographic analysis by age group and gender.
+
