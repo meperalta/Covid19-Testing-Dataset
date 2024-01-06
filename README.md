@@ -3,13 +3,13 @@ Exploratory Data Analysis (EDA) 
 
 Overview:
 
-A comprehensive analysis of COVID-19 testing data, including data cleaning, preprocessing, and visualization, to derive meaningful insights.
+To derive meaningful insights, a comprehensive analysis of COVID-19 testing data, including data cleaning, preprocessing, and visualization.
 
 Data Cleaning:
 
 Identified missing values and blank rows.
-Strategy: Omission - Deleted/removed blank rows.
-Handled missing values by deleting rows with missing values for specific columns (Temperature, Age, Age 60 & Above, Sex, Test Administrator, Patient Experience Survey, Test Type).
+Strategy: Omission - Delete/remove blank rows.
+Handled missing values by deleting rows with missing values for specific columns (Temperature, Age, Age 60 and above, Sex, Test Administrator, Patient Experience Survey, Test Type).
 Removed duplication using Excel's "Remove Duplicates" function.
 Data Preprocessing:
 
