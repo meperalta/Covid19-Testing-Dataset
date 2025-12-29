@@ -1,0 +1,18 @@
+COVID19-Testing-Data_Dataset_README.md
+
+📁 Sample Dataset
+
+# COVID-19 Testing Dataset (2021) - Sample Data
+
+This Excel file includes all steps of the COVID-19 Testing Data Analysis performed in class:
+
+## Tabs in the Workbook
+- **Raw Data:** Original dataset provided in class
+- **Data Cleaning:** Handling missing values, duplicates, and outliers
+- **Data Preparation:** Transformations and categorical conversions
+- **Pivot Table & Charts:** Exploratory visualizations
+- **Scatter Plot:** Relationship analysis between temperature and test results
+- **Dashboard:** Interactive Excel dashboard for dynamic data exploration
+
+**Note:** This dataset is anonymized and for educational purposes only.
+
